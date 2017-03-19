@@ -1,0 +1,17 @@
+/*CSS for GeoJSON Rules Demo*/
+
+html,body,#map
+{
+    height: 100%;
+    width:100%;
+    font-family: 'OCR A Std';
+}
+h3
+{
+    font-family: 'TGL 0-17';
+}
+p
+{
+    font-family: 'TGL 31034-1';
+    font-size: 50;
+}  
