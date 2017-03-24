@@ -175,7 +175,7 @@ h1 .logo {
 
 #about .info {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 }
 
 #about h2 {
