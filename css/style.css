@@ -361,7 +361,7 @@ h1 .logo {
 
 #portfolio [class^="col"] section:hover .overlay .heading span {
 	 -webkit-transform: rotate(180deg);
-	 position: absolute;
+	 position: relative;
 	 top: -80px;
 	 left: -30px;
 	 color: rgba(4,14,22,.83);;
@@ -381,12 +381,12 @@ h1 .logo {
 
 
 #contact {
-	background: url("https://img0.etsystatic.com/000/0/5210170/il_fullxfull.207755754.jpg") no-repeat;
+	background: url("../images/Noah_Sunrise.jpg") no-repeat;
 	background-size: cover;
 }
 
 #contact .overlay {
-	background: rgba(0,0,0,.1);
+	background: rgba(0,0,0,.4);
 }
 
 #contact h2 {

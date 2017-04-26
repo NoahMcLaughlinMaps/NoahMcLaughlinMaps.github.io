@@ -6,7 +6,7 @@ var map = L.map('map').setView([34, 65], 6);
 	
 //load tile layer
 // Mapbox basemap added here
-var basemap1 = L.tileLayer('https://{s}.tiles.mapbox.com/v3/landplanner.map-4y9ngu48/{z}/{x}/{y}.png', {
+var basemap1 = L.tileLayer('https://{s}.tiles.mapbox.com/v3/landplanner.map-rcnizd13/{z}/{x}/{y}.png', {
     minZoom: 6
 });
 basemap1.addTo(map);
